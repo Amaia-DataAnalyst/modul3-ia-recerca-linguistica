@@ -1,0 +1,14 @@
+Aquests són 12 fragments sintètics (no reals, creats amb finalitat docent) que simulen inicis o cossos breus de correus electrònics universitaris en català, per treballar la identificació del tractament (tu / vostè / impersonal). Treballa amb aquest text seguint les instruccions que et donaré a continuació.
+
+F01: "Hola Marc, ja tinc els resultats que em vas demanar. Te'ls envio adjunts i em dius si et va bé per divendres."
+F02: "Bon dia Laura, podries revisar l'esborrany abans de dijous? Si tens cap dubte, truca'm sense problema."
+F03: "Benvolgut Jordi, t'agrairia que em confirmessis la recepció d'aquest missatge abans de divendres. Moltes gràcies per la teva ajuda."
+F04: "Bon dia, li escric per confirmar-li que la seva sol·licitud ha estat rebuda correctament. Si necessita més informació, no dubti a contactar-me."
+F05: "Estimada professora Martí, voldria preguntar-li si seria possible ajornar la reunió. Quedo a la seva disposició per trobar una data que li vagi bé."
+F06: "Benvolguda Sra. Puig, li adjunto la documentació sol·licitada. Restem a la seva disposició per qualsevol aclariment."
+F07: "Es prega confirmar l'assistència a la reunió abans de dimecres. Cal enviar la confirmació a la bústia del departament."
+F08: "S'informa que el termini per presentar la documentació finalitza el dia 15. Es recomana no esperar als últims dies."
+F09: "Bon dia, Anna. Voldria saber si hi ha disponibilitat dijous."
+F10: "Adjunt trobareu l'informe. Gràcies."
+F11: "Ei, perdoni les presses. Podria dir-me si ha rebut la meva sol·licitud?"
+F12: "Hola, com estàs? Voldria preguntar-li si podria revisar el document que li vaig enviar ahir."

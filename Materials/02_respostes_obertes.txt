@@ -1,0 +1,37 @@
+RESPOSTES OBERTES SINTÈTIQUES — "Com ens tractem en el correu electrònic universitari?"
+
+Pregunta formulada a un grup fictici de PDI: "Què tens en compte quan decideixes com adreçar-te a una persona en un correu universitari?"
+
+Les respostes següents són sintètiques (redactades amb finalitat docent) i no corresponen a persones reals.
+
+R01: "Si ja hem intercanviat correus i l'altra persona em tracta de tu, jo també la tracto de tu. Si és la primera vegada que hi escric, sol ser vostè."
+
+R02: "Si escric per primera vegada a una professora que no conec, prefereixo vostè, encara que després la relació es faci més propera."
+
+R03: "En tràmits administratius intento evitar el tu i redacto de manera impersonal, encara que conegui la persona del PAS."
+
+R04: "Em costa fer servir vostè; sovint escric 'seria possible...' per no haver de triar."
+
+R05: "Depèn molt del càrrec: a un càrrec de gestió o a un catedràtic sempre el tracto de vostè, encara que després parlem sovint per Teams."
+
+R06: "Si la petició és delicada o pot generar un conflicte, sóc més formal encara que normalment tutegi aquesta persona."
+
+R07: "Al meu departament tothom es tracta de tu entre companys, així que ho aplico també als correus, fins i tot amb gent que no conec personalment."
+
+R08: "Normalment em fixo en com em tracta l'altra persona al primer correu i hi responc igual, tot i que si és algú amb un càrrec molt superior potser mantinc el vostè encara que ell o ella em tutegi."
+
+R09: "Quan no sé com és de formal la relació, procuro redactar el correu sense necessitat de fer servir ni tu ni vostè."
+
+R10: "Si és la primera vegada que m'adreço a algú del rectorat per a una qüestió important, sempre vaig amb vostè, per si de cas."
+
+R11: "No hi penso gaire, simplement escric com em surt en aquell moment."
+
+R12: "Als professors sempre els tracto de vostè, és una norma que no em salto. Tot i això, quan ja els conec una mica acabo tutejant-los, perquè mantenir el vostè se'm fa absurd."
+
+R13: "Depèn de qui sigui i de què li hagi de demanar: si li demano un favor, vaig més amb compte."
+
+R14: "Depèn. Cada cas és diferent."
+
+R15: "Si és algú del PAS i és un tràmit, vaig amb una redacció impersonal; però si és una companya que conec de fa anys, la tutejo encara que sigui un tràmit."
+
+Nota: aquestes quinze respostes constitueixen el material de treball de l'exercici de codificació qualitativa. No hi ha, adjunta, cap categorització: l'objectiu de l'activitat és construir-la.

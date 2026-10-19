@@ -1,0 +1,27 @@
+Dades sintètiques per a l'exercici "Com ens tractem en el correu electrònic universitari?" (Mòdul 3, activitat 235U, UdL). Són 24 observacions fictícies (no reals) que descriuen, per a cada correu, el rol de la persona destinatària, si hi havia relació prèvia amb qui escriu, el tipus de situació comunicativa, el tractament (tu / vostè / impersonal) que es va fer servir, la longitud del correu en paraules (longitud_paraules) i el nombre de marcadors de cortesia que conté (marcadors_cortesia). Analitza aquestes dades seguint les instruccions que et donaré a continuació.
+
+id | rol_destinatari | relacio_previa | situacio | tractament | longitud_paraules | marcadors_cortesia
+C01 | estudiant | sí | consulta acadèmica | tu | 48 | 2
+C02 | PDI | no | petició formal | vostè | 112 | 4
+C03 | PDI | no | tràmit administratiu | impersonal | 95 | 1
+C04 | PDI | sí | coordinació | tu | 61 | 2
+C05 | PAS | no | tràmit administratiu | vostè | 88 | 3
+C06 | estudiant | sí | consulta acadèmica | tu | 35 | 0
+C07 | estudiant | no | petició formal | impersonal | 78 | 2
+C08 | PDI | no | petició formal | vostè | 104 | 4
+C09 | PAS | sí | tràmit administratiu | tu | 52 | 2
+C10 | PAS | sí | coordinació | impersonal | 67 | 1
+C11 | estudiant | sí | coordinació | tu | 44 | 2
+C12 | PDI | sí | petició formal | vostè | 91 | 3
+C13 | PDI | sí | coordinació | tu | 71 | 3
+C14 | PDI | no | tràmit administratiu | impersonal | 83 | 1
+C15 | PDI | no | petició formal | vostè | 119 | 5
+C16 | estudiant | sí | consulta acadèmica | tu | 41 | 2
+C17 | PAS | no | coordinació | vostè | 62 | 1
+C18 | estudiant | no | consulta acadèmica | tu | 55 | 2
+C19 | PDI | sí | consulta acadèmica | impersonal | 70 | 2
+C20 | PDI | no | tràmit administratiu | vostè | 97 | 2
+C21 | PDI | sí | coordinació | tu | 63 | 0
+C22 | PDI | sí | consulta acadèmica | vostè | 66 | 4
+C23 | PAS | no | tràmit administratiu | impersonal | 76 | 1
+C24 | PAS | no | petició formal | tu | 79 | 3
