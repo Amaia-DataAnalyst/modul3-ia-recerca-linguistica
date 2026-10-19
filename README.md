@@ -26,6 +26,7 @@ Els fitxers de la carpeta `Materials/` contenen els conjunts de dades que utilit
 Totes les dades són **100 % sintètiques i han estat creades exclusivament amb finalitat docent**.
 
 Per a diversos materials hi ha:
+
 - una versió per pujar directament a la plataforma;
 - una versió `copia_enganxa.txt` per poder treballar encara que la pujada de fitxers no estigui disponible.
 
@@ -36,3 +37,14 @@ Treballarem sobre un únic cas fictici:
 **Com ens tractem en el correu electrònic universitari?**
 
 A partir d'aquest cas combinarem dades quantitatives, respostes obertes i fragments lingüístics.
+
+## Recursos per continuar treballant
+
+Un cop acabada la sessió, a la carpeta `Recursos/` hi trobareu materials de suport per reutilitzar i adaptar les estratègies treballades als vostres propis projectes de recerca.
+
+Entre d'altres, hi haurà:
+
+- una còpia dels **prompts utilitzats durant la sessió**, per poder-los recuperar i adaptar;
+- una **biblioteca ampliada de prompts per a la recerca**, organitzada per situacions de treball com ara exploració quantitativa, anàlisi qualitativa, corpus, verificació, biaixos, visualització, comunicació i traçabilitat.
+
+Aquests recursos no pretenen ser receptes tancades ni substituir decisions metodològiques. La idea és que serveixin com a punt de partida per adaptar les instruccions a la pregunta de recerca, les dades i els criteris de cada projecte.
