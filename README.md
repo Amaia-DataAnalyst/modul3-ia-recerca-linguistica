@@ -28,7 +28,7 @@ Totes les dades són **100 % sintètiques i han estat creades exclusivament amb 
 Per a diversos materials hi ha:
 
 - una versió per pujar directament a la plataforma;
-- una versió `copia_enganxa.txt` per poder treballar encara que la pujada de fitxers no estigui disponible.
+- una versió `_copia_enganxa.txt` per poder treballar encara que la pujada de fitxers no estigui disponible.
 
 ## Cas de treball
 
