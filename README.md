@@ -42,7 +42,7 @@ A partir d'aquest cas combinarem dades quantitatives, respostes obertes i fragme
 
 Un cop acabada la sessió, a la carpeta `Recursos/` hi trobareu materials de suport per reutilitzar i adaptar les estratègies treballades als vostres propis projectes de recerca.
 
-Entre d'altres, hi haurà:
+Entre d'altres, n'hi haurà:
 
 - una còpia dels **prompts utilitzats durant la sessió**, per poder-los recuperar i adaptar;
 - una **biblioteca ampliada de prompts per a la recerca**, organitzada per situacions de treball com ara exploració quantitativa, anàlisi qualitativa, corpus, verificació, biaixos, visualització, comunicació i traçabilitat.
