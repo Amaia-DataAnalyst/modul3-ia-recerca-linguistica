@@ -21,7 +21,7 @@ L'objectiu no és delegar l'anàlisi a la IA, sinó aprendre a utilitzar-la mant
 
 ## Materials
 
-Els fitxers de la carpeta `materials/` contenen els conjunts de dades que utilitzarem durant la sessió.
+Els fitxers de la carpeta `Materials/` contenen els conjunts de dades que utilitzarem durant la sessió.
 
 Totes les dades són **100 % sintètiques i han estat creades exclusivament amb finalitat docent**.
 
