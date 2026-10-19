@@ -4,7 +4,7 @@ Materials de treball del **Mòdul 3: Plataformes d'IA per a l'anàlisi de dades 
 
 **«La intel·ligència artificial aplicada a la recerca en lingüística i àrees afins: eines, mètodes i aplicacions»**
 
-Universitat de Lleida · 20 d'octubre de 2026
+EUDAN · Universitat de Lleida (UdL) · 20 d'octubre de 2026
 
 ## Què treballarem
 
